@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluent-mantine-theme-spfx-client-side-solution",
+    "id": "307deb1b-ef92-4e45-9f8d-31f3fab7df8a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluent-mantine-theme-spfx description"
+      },
+      "longDescription": {
+        "default": "fluent-mantine-theme-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluent-mantine-theme-spfx Feature",
+        "description": "The feature that activates elements of the fluent-mantine-theme-spfx solution.",
+        "id": "0b876853-b527-4ada-9ecd-cc745d104814",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluent-mantine-theme-spfx.sppkg"
+  }
+}
